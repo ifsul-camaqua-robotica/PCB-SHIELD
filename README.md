@@ -3,6 +3,6 @@
 
 - Arquivo "robocup-esp-32-1" -> Guarda os arquivos do KICAD para a PCB
 
-- Arquivo "KICAD-FOOTPRINTS" -> Guarda os footprints não inclusos no KICAD, porém instalados externamente para fazer a PCB
+- Arquivo "KICAD-LIBRARIES" -> Guarda as bibliotecas (footprints e symbols) utilizados para fazer a PCB 
 
-- Versão 1.0
+- Versão E-1.0
