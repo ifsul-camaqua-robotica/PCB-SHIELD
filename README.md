@@ -11,4 +11,4 @@
 - Esquerda até Direita -> 84,5 mm
 - Baixo até Cima -> 53mm
 
-- Versão E-1.4
+- Versão E-1.5
